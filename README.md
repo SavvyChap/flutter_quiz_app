@@ -1,6 +1,6 @@
 # flutter_quiz_app
 
-A new Flutter application.
+A new Flutter application. This is an app made simply for learning purposes and is not ended for commercial use.
 
 ## Getting Started
 
